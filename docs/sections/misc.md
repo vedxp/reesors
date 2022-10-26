@@ -1,4 +1,4 @@
-## Misc
+# Misc
 
 - [Screenfly (Check Website Responsiveness)](https://bluetree.ai/screenfly/)
 - [Responsinator (Check Website Responsiveness)](http://www.responsinator.com/)
@@ -10,7 +10,6 @@
 - [Compressor (Image Compressor)](https://compressor.io/)
 - [Scroll To Top Button Generator](https://www.softr.io/tools/javascript-scroll-to-top-button)
 - [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)
-
 - [Readme.so (README Generator)](https://readme.so/)
 - [Google Fonts CDN Trick (Combine Requests)](https://getfrontend.tips/combine-google-font-requests/)
 - [CSS @Import Information](https://getfrontend.tips/avoid-using-css-import/)
@@ -21,7 +20,6 @@
 - [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Vue.js Performance Guide](https://madewithvuejs.com/blog/vuejs-performance-guide)
-
 - [Hashnode (Blogging Platform for Developers)](https://hashnode.com/)
 - [Paragraph (Blogging Platform)](https://paragraph.xyz/)
 - [Brandmark (Logo Maker)](https://app.brandmark.io/v3/)
@@ -32,7 +30,6 @@
 - [SVGOMG (SVG Optimizer)](https://jakearchibald.github.io/svgomg/)
 - [Photopea (Online Photoshop)](https://www.photopea.com/)
 - [Photostack (Image Editor)](https://edit.photostack.app/)
-
 - [Convert MD file to website](https://medium.com/@bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-w)
 - [Jekyll Themes](https://jekyllthemes.dev/)
 - [Placeholder Image Generator](https://smalldev.tools/placeholder-image-generator-online)
@@ -43,7 +40,6 @@
 - [Gatsby Blog Template](https://github.com/LekoArts/gatsby-starter-minimal-blog)
 - [Gatsby Emilia Portfolio Template](https://github.com/LekoArts/gatsby-starter-portfolio-emilia)
 - [Proto.io (Prototyping Tool)](https://proto.io/)
-
 - [Design Vault (Design Inspirations)](https://designvault.io/)
 - [Devtooly (Awesome Collection of Resources)](https://devtooly.com/)
 - [Hope UI (UI Toolkit)](https://hopeui.iqonic.design/)
@@ -54,7 +50,6 @@
 - [SVG Pattern Generator](https://heropatterns.com/)
 - [Gradient Border Generator](https://leerob.io/snippets/gradient-border)
 - [Gatsby Themes](https://themes.lekoarts.de/)
-
 - [Next.js SSG Demo](https://github.com/vercel/preview-mode-demo)
 - [Next.js + Tailwind Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 - [Next.js + Notion Blog](https://github.com/ijjk/notion-blog)
