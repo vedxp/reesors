@@ -4,12 +4,10 @@ export default defineConfig({
   titleTemplate: false,
   description: "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
   lang: "en-US",
-  appearance: true,
+  appearance: false,
   cleanUrls: "without-subfolders",
 
   themeConfig: {
-  logo: '/navlogo.png',
-
   editLink: {
       pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/:path",
       text: "Improve This Page!"
@@ -21,7 +19,7 @@ export default defineConfig({
       
       nav: [
       { text: 'Home', link: '/' },
-      { text: 'Explore', link: '/sections/', activeMatch: '/sections' },
+      { text: 'Explore', link: '/sections/' },
       { text: 'GitHub', link: 'https://github.com/VedxP/reesors' }
         ],
     
