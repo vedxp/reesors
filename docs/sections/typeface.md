@@ -1,7 +1,12 @@
-## Typefaces
+# Typefaces
+
+#### Tools
 
 - [Fontjoy (Font Pairing)](https://fontjoy.com/)
 - [Brandmark (Font Pairing)](https://brandmark.io/font-generator/)
+
+#### Resources
+
 - [CSSans Pro](https://cssans.pro/)
 - [Google Fonts](https://fonts.google.com/)
 - [Fontbit](https://fontbit.io/)
