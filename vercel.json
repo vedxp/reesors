@@ -1,7 +1,9 @@
 {
+  "builds": [
   "installCommand": "pnpm install"
   "buildCommand": "pnpm docs:build"
   "outputDirectory": "docs/.vitepress/dist"
   "trailingSlash": false
   "cleanUrls": true
+        ]
 }
