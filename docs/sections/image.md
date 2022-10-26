@@ -1,4 +1,4 @@
-## Images
+# Images
 
 - [Icons8](https://icons8.com/)
 - [Vecteezy](https://www.vecteezy.com/)
