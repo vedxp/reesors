@@ -1,4 +1,4 @@
-<p align="center">**Illustrations**</p>
+**<p align="center">Illustrations</p>**
 
 ---
 
