@@ -11,8 +11,15 @@
     "vitepress": "1.0.0-alpha.25",
     "vue": "3.2.41"
   },
-   "scripts": {
+  "scripts": {
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
   }
 }
