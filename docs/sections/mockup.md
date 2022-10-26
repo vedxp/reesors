@@ -1,4 +1,4 @@
-## Mockups
+# Mockups
 
 - [Artboard](https://artboard.studio/)
 - [Shotsnapp](https://shotsnapp.com/)
