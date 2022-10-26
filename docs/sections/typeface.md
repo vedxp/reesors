@@ -1,5 +1,7 @@
 # Typefaces
+
 ---
+
 #### Tools
 
 - [Fontjoy (Font Pairing)](https://fontjoy.com/)
