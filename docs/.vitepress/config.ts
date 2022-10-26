@@ -11,7 +11,7 @@ export default defineConfig({
   logo: '/navlogo.png',
 
   editLink: {
-      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/sections/",
+      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/sections",
       text: "Improve This Page!"
     },
    
@@ -32,7 +32,7 @@ export default defineConfig({
           { text: "Animations", link: "/sections/" },
           { text: "App Dev", link: "/sections/app" },
            { text: "Colors", link: "/sections/color" },
-          { text: "Github Actions", link: "/sections/action" },
+          { text: "Github", link: "/sections/github" },
            { text: "Icons", link: "/sections/icon" },
           { text: "Illustrations", link: "/sections/illustration" },
            { text: "Images", link: "/sections/image" },
