@@ -49,5 +49,6 @@ export default defineConfig({
     apiKey: '',
     indexName: ''
     },
- }
-  })
+   }
+  }
+)
