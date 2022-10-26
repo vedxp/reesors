@@ -1,4 +1,4 @@
-## Vue
+# Vue
 
 - [Viteese](https://github.com/antfu/vitesse)
 - [Vue 3 Template](https://github.com/lecoueyl/vue3-template)
