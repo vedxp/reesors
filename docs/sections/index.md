@@ -1,4 +1,4 @@
-## Animations
+# Animations
 
 - [Water.css](https://watercss.kognise.dev/)
 - [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/)
