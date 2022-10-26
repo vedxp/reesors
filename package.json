@@ -1,0 +1,18 @@
+{
+  "name": "Reesors",
+  "version": "2.0.0",
+  "description": "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
+  "main": "index.js",
+  "repository": "https://github.com/VedxP/reesors-v2",
+  "author": "VedxP",
+  "license": "GPL v3.0",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.25",
+    "vue": "3.2.41"
+  },
+   "scripts": {
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
