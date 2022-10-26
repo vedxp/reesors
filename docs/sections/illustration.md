@@ -1,4 +1,4 @@
-## Illustrations
+# Illustrations
 
 - [Avataaars](https://avataaars.com/)
 - [Humaaans](https://www.humaaans.com/)
