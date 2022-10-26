@@ -1,4 +1,4 @@
-## Web Tools
+# Web Tools
 
 - [Gatsby (JavaScript Framework)](https://www.gatsbyjs.com/)
 - [Glitch (Website Builder)](https://glitch.com/)
@@ -10,7 +10,6 @@
 - [Prime Vue (UI Kit)](https://www.primefaces.org/primevue/?ref=madewithvuejs.com)
 - [Kometa (UI Kit)](https://kitwind.io/products/kometa/)
 - [Flowbite (Component Library)](https://flowbite.com/)
-
 - [Vue Tailwind (UI Kit)](https://www.vue-tailwind.com/)
 - [Daisy UI (UI Kit)](https://daisyui.com/)
 - [Material Tailwind (UI Kit)](https://www.material-tailwind.com/)
@@ -21,7 +20,6 @@
 - [Nextjs (React Framework)](https://nextjs.org/)
 - [Headless UI (UI Toolkit)](https://headlessui.com/)
 - [Chakra UI (UI Toolkit)](https://chakra-ui.com/)
-
 - [Atomize (UI Toolkit)](https://atomizecode.com/)
 - [MD to HTML](https://github.com/KrauseFx/markdown-to-html-github-style)
 - [Meraki UI (UI Kit)](https://github.com/merakiui/merakiui)
@@ -32,7 +30,6 @@
 - [HTML Generator](https://webcode.tools/generators/html)
 - [Floating UI(Create Floating Elements)](https://floating-ui.com/)
 - [Critters (CSS Tool)](https://github.com/GoogleChromeLabs/critters)
-
 - [Layout It (CSS Grid Generator)](https://github.com/Leniolabs/layoutit-grid)
 - [Lit (Web Components)](https://lit.dev/)
 - [Eleventy (Static Site Generator)](https://www.11ty.dev/)
@@ -43,7 +40,6 @@
 - [Box Shadows](https://box-shadow.dev/)
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
 - [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
-
 - [Uiverse](https://uiverse.io/)
 - [Pico.css](https://picocss.com/)
 - [Bulma](https://bulma.io/)
