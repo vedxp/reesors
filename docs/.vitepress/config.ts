@@ -11,7 +11,7 @@ export default defineConfig({
   logo: '/navlogo.png',
 
   editLink: {
-      pattern: "https://github.com/VedxP/reesors/edit/main/docs/sections/",
+      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/sections/",
       text: "Improve This Page!"
     },
    
@@ -31,18 +31,18 @@ export default defineConfig({
         items: [
           { text: "Animations", link: "/sections/" },
           { text: "App Dev", link: "/sections/app" },
-           { text: "Colors", link: "/sections/colors" },
-          { text: "Github Actions", link: "/sections/actions" },
-           { text: "Icons", link: "/sections/icons" },
-          { text: "Illustrations", link: "/sections/illustrations" },
-           { text: "Images", link: "/sections/images" },
+           { text: "Colors", link: "/sections/color" },
+          { text: "Github Actions", link: "/sections/action" },
+           { text: "Icons", link: "/sections/icon" },
+          { text: "Illustrations", link: "/sections/illustration" },
+           { text: "Images", link: "/sections/image" },
           { text: "Learning", link: "/sections/learning" },
            { text: "Misc", link: "/sections/misc" },
-          { text: "Mockups", link: "/sections/mockups" },
-           { text: "Tools", link: "/sections/tools" },
-          { text: "Typefaces", link: "/sections/typefaces" },
+          { text: "Mockups", link: "/sections/mockup" },
+           { text: "Tools", link: "/sections/tool" },
+          { text: "Typefaces", link: "/sections/typeface" },
            { text: "Vue", link: "/sections/vue" },
-          { text: "Web Tools", link: "/sections/webtools" }
+          { text: "Web Tools", link: "/sections/webtool" }
         ]
       }
     ],
