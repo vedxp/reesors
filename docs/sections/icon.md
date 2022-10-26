@@ -1,4 +1,4 @@
-## Icons
+# Icons
 
 - [Boxicons](https://boxicons.com/)
 - [Fontawesome](https://fontawesome.com/icons)
