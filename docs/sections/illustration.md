@@ -1,4 +1,6 @@
-# Illustrations
+<p align="center">**Illustrations**</p>
+
+---
 
 - [Avataaars](https://avataaars.com/)
 - [Humaaans](https://www.humaaans.com/)
