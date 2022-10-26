@@ -11,7 +11,7 @@ export default defineConfig({
   logo: '/navlogo.png',
 
   editLink: {
-      pattern: "https://github.com/VedxP/reesors/edit/main/docs/sections/",
+      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/sections/",
       text: "Improve This Page!"
     },
    
