@@ -4,7 +4,7 @@ hero:
   name: Reesors
   tagline: A cozy 😌 collection of free resources for developers and designers curated with ♥️
   image:
-    src: /hero.png
+    src: /logo.png
     alt: Reesors Logo
   actions:
     - theme: brand
