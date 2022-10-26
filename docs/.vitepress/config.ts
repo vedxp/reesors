@@ -4,7 +4,7 @@ export default defineConfig({
   titleTemplate: false,
   description: "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
   lang: "en-US",
-  appearance: false,
+  appearance: true,
   cleanUrls: "without-subfolders",
 
   themeConfig: {
