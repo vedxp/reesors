@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Reesors",
-  titleTemplate: 'false',
+  titleTemplate: false,
   description: "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
   lang: "en-US",
   appearance: true,
@@ -11,7 +11,7 @@ export default defineConfig({
   logo: '/navlogo.png',
 
   editLink: {
-      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/sections",
+      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/:path",
       text: "Improve This Page!"
     },
    
