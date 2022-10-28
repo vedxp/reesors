@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
   "main": "index.js",
-  "repository": "https://github.com/VedxP/reesors-v2",
+  "repository": "https://github.com/VedxP/reesors",
   "author": "VedxP",
   "license": "GPL v3.0",
   "private": true,
