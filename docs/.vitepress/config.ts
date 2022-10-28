@@ -8,7 +8,7 @@ export default defineConfig({
   cleanUrls: "without-subfolders",
 
   head: [
-    ['link', { rel: "icon", type: "image/png", href: "/docs/public/logo.png"}]
+    ['link', { rel: "icon", type: "image/png", href: "docs/public/logo.png"}]
   ],
 
   themeConfig: {
