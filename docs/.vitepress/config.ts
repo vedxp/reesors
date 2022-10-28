@@ -7,6 +7,20 @@ export default defineConfig({
   appearance: true,
   cleanUrls: "without-subfolders",
 
+  head: [
+    ['link', { rel: "apple-touch-icon", sizes: "180x180", href="/docs/favicon/apple-touch-icon.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/docs/favicon/favicon-32x32.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/docs/favicon/favicon-16x16.png"}],
+    ['link', { rel: "manifest", href: "/docs/favicon/site.webmanifest"}],
+    ['link', { rel: "mask-icon", href: "/docs/favicon/safari-pinned-tab.svg", color: "#5bbad5"}],
+    ['link', { rel: "shortcut icon", href: "/docs/favicon/favicon.ico"}],
+    ['link', { rel: "apple-mobile-web-app-title", content: "Reesors"}],
+    ['meta', { name: "application-name", content: "Reesors"}],
+    ['meta', { name: "msapplication-TileColor", content: "#da532c"}],
+    ['meta', { name: "msapplication-config", content: "/docs/favicon/browserconfig.xml"}],
+    ['meta', { name: "theme-color", content: "#ffffff"}],
+  ],
+
   themeConfig: {
   editLink: {
       pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/:path",
