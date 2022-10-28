@@ -7,6 +7,10 @@ export default defineConfig({
   appearance: true,
   cleanUrls: "without-subfolders",
 
+  head: [
+    ['link', { rel: "icon", type: "image/png", href: "/docs/public/logo.png"}]
+  ],
+
   themeConfig: {
   editLink: {
       pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/:path",
