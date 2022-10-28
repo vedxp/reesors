@@ -18,7 +18,7 @@ export default defineConfig({
     ['meta', { name: "application-name", content: "Reesors"}],
     ['meta', { name: "msapplication-TileColor", content: "#da532c"}],
     ['meta', { name: "msapplication-config", content: "/docs/favicon/browserconfig.xml"}],
-    ['meta', { name: "theme-color", content: "#ffffff"}],
+    ['meta', { name: "theme-color", content: "#ffffff"}]
   ],
 
   themeConfig: {
