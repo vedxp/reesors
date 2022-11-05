@@ -34,9 +34,6 @@ features:
   - title: Misc
     details: Beautiful description goes here!
     link: /sections/misc
-  - title: GitHub
-    details: Beautiful description goes here!
-    link: /sections/github
   - title: Mockups
     details: Beautiful description goes here!
     link: /sections/mockup
