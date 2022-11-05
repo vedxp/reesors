@@ -25,11 +25,10 @@ export default defineConfig({
   footer: {
       message: "Released under the GPL-3.0 License.",
       copyright: "Copyright © 2022-present VedxP" },
-      
-      nav: [
-      { text: 'Home', link: '/' },
-      { text: 'GitHub', link: 'https://github.com/VedxP/reesors' }
-        ],
+
+  socialLinks: [
+    { icon: 'github', link: 'https://github.com/VedxP/reesors' }
+    ],
 
   algolia: {
     appId: '',
