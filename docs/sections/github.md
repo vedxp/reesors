@@ -1,4 +1,4 @@
-# Github
+# Github <Badge type="tip" text="Opinionated" />
 
 - [Cache](https://github.com/marketplace/actions/cache)
 - [Upload Artifact](https://github.com/marketplace/actions/upload-a-build-artifact)
