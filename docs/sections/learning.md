@@ -1,4 +1,4 @@
-# Learning
+# Learning <Badge type="tip" text="Opinionated" />
 
 - [UI/UX Design](https://degreeless.design/)
 - [Develop Eye for Design](https://dribbble.com/resources/develop-design-eye)
