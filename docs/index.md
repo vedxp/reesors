@@ -10,23 +10,23 @@ hero:
     - theme: brand
       text: Dive In
       link: /sections/
-  features:
-    - title: Animations
-      details: Beautiful description goes here!
-      link: /sections/
-    - title: App Dev
-      details: Beautiful description goes here!
-      link: /app
-    - title: Colors
-      details: Beautiful description goes here!
-      link: /color
-    - title: GitHub
-      details: Beautiful description goes here!
-      link: /github
-    - title: Icons
-      details: Beautiful description goes here!
-      link: /icon
-    - title: Illustrations
-      details: Beautiful description goes here!
-      link: /illustration
+features:
+  - title: Animations
+    details: Beautiful description goes here!
+    link: /sections/
+  - title: App Dev
+    details: Beautiful description goes here!
+    link: /app
+  - title: Colors
+    details: Beautiful description goes here!
+    link: /color
+  - title: GitHub
+    details: Beautiful description goes here!
+    link: /github
+  - title: Icons
+    details: Beautiful description goes here!
+    link: /icon
+  - title: Illustrations
+    details: Beautiful description goes here!
+    link: /illustration
 ---
