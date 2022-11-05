@@ -1,4 +1,4 @@
-# App Dev
+# App Dev <Badge type="tip" text="Opinionated" />
 
 - [Dashbud](https://dashbud.dev/)
 - [Flutter Cookbook](https://docs.flutter.dev/cookbook)
