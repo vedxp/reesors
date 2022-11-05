@@ -33,31 +33,9 @@ export default defineConfig({
       
       nav: [
       { text: 'Home', link: '/' },
-      { text: 'Explore', link: '/sections/' },
       { text: 'GitHub', link: 'https://github.com/VedxP/reesors' }
         ],
-    
-    sidebar: [
-      {
-        text: "All Sections",
-        items: [
-          { text: "Animations", link: "/sections/" },
-          { text: "App Dev", link: "/sections/app" },
-          { text: "Colors", link: "/sections/color" },
-          { text: "Github", link: "/sections/github" },
-          { text: "Icons", link: "/sections/icon" },
-          { text: "Illustrations", link: "/sections/illustration" },
-          { text: "Images", link: "/sections/image" },
-          { text: "Learning", link: "/sections/learning" },
-          { text: "Misc", link: "/sections/misc" },
-          { text: "Mockups", link: "/sections/mockup" },
-          { text: "Tools", link: "/sections/tool" },
-          { text: "Typefaces", link: "/sections/typeface" },
-          { text: "Vue", link: "/sections/vue" },
-          { text: "Web Tools", link: "/sections/webtool" }
-        ]
-      }
-    ],
+
   algolia: {
     appId: '',
     apiKey: '',
