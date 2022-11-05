@@ -21,12 +21,7 @@ export default defineConfig({
     ['meta', { name: "theme-color", content: "#ffffff"}]
   ],
 
-  themeConfig: {
-  editLink: {
-      pattern: "https://github.com/VedxP/reesors-v2/edit/main/docs/:path",
-      text: "Improve This Page!"
-    },
-   
+  themeConfig: { 
   footer: {
       message: "Released under the GPL-3.0 License.",
       copyright: "Copyright © 2022-present VedxP" },
