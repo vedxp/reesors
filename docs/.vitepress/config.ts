@@ -30,12 +30,6 @@ export default defineConfig({
     { text: 'GitHub', link: 'https://github.com/VedxP/reesors' },
     { text: 'VedxP', link: 'https://vedxp.vercel.app/' }
   ],
-
-  algolia: {
-    appId: '',
-    apiKey: '',
-    indexName: ''
-    },
    }
   }
 )
