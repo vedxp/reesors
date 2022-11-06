@@ -26,9 +26,10 @@ export default defineConfig({
       message: "Released under the GPL-3.0 License.",
       copyright: "Copyright © 2022-present VedxP" },
 
-  socialLinks: [
-    { icon: 'github', link: 'https://github.com/VedxP/reesors' }
-    ],
+  nav: [
+    { text: 'GitHub', link: 'https://github.com/VedxP/reesors' },
+    { text: 'VedxP', link: 'https://vedxp.vercel.app/' }
+  ],
 
   algolia: {
     appId: '',
