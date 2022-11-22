@@ -9,6 +9,8 @@
 <br>
 
 ## 🎉
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVedxP%2Freesors.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVedxP%2Freesors?ref=badge_shield)
+
 
 - [x] Animations
 - [x] App Dev
@@ -30,3 +32,7 @@
 ## ⚡
 
 - [VitePress](https://vitepress.vuejs.org/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVedxP%2Freesors.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVedxP%2Freesors?ref=badge_large)
