@@ -9,7 +9,10 @@
   "private": true,
   "devDependencies": {
     "vitepress": "1.0.0-alpha.29",
-    "vue": "3.2.45"
+    "vue": "3.2.45",
+    "@vite-pwa/vitepress": "^0.0.2",
+    "workbox-window": "^6.5.4"
+
   },
   "scripts": {
     "docs:build": "vitepress build docs",
