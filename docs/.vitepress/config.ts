@@ -44,10 +44,11 @@ export default withPwa(defineConfig({
   pwa: {
     base: '/',
     scope: '/',
-    includeAssets: ['logo.png'],
+    includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'safari-pinned-tab.svg'],
     manifest: {
       name: 'Reesors',
       short_name: 'Reesors',
+      description: 'A cozy 😌 collection of free resources for developers and designers curated with ♥️',
       theme_color: '#ffffff',
       icons: [
         {
