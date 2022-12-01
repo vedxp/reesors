@@ -67,6 +67,9 @@ export default withPwa(defineConfig({
           purpose: 'any maskable',
         },
       ],
-    }
+    },
+    workbox: {
+      globPatterns: ['**/*.{css,js,html,svg,png,ico,txt,woff2}'],
+    },
   }
   }))
