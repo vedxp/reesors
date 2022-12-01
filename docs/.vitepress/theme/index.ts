@@ -1,5 +1,5 @@
 import { h } from 'vue'
-import DefaultTheme from 'vitepress/theme'
+import Theme from 'vitepress/theme'
 import './custom.css'
 
 import ReloadPrompt from './components/ReloadPrompt.vue'
