@@ -13,7 +13,6 @@
     "@vite-pwa/vitepress": "^0.0.2",
     "workbox-window": "^6.5.4",
     "vite-plugin-pwa": "^0.13.3"
-
   },
   "scripts": {
     "docs:build": "vitepress build docs",
