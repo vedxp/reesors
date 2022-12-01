@@ -1,6 +1,6 @@
-import './custom.css'
 import { h } from 'vue'
-import Theme from 'vitepress/theme'
+import DefaultTheme from 'vitepress/theme'
+import './custom.css'
 
 import ReloadPrompt from './components/ReloadPrompt.vue'
 
