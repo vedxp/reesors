@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
-export default defineConfig({
+import { withPwa } from '@vite-pwa/vitepress'
+
+export default withPwa(defineConfig({
   title: "Reesors",
   titleTemplate: false,
   description: "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
@@ -37,7 +39,34 @@ export default defineConfig({
   nav: [
     { text: 'GitHub', link: 'https://github.com/VedxP/reesors' },
     { text: 'VedxP', link: 'https://vedxp.vercel.app/' }
-  ],
-   }
+  ]
+   },
+  pwa: {
+    base: '/',
+    scope: '/',
+    includeAssets: ['logo.png'],
+    manifest: {
+      name: 'Reesors',
+      short_name: 'Reesors',
+      theme_color: '#ffffff',
+      icons: [
+        {
+          src: 'android-chrome-192x192.png',
+          sizes: '192x192',
+          type: 'image/png',
+        },
+        {
+          src: 'logo-512x512.png',
+          sizes: '512x512',
+          type: 'image/png',
+        },
+        {
+          src: 'logo-512x512.png',
+          sizes: '512x512',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
+      ],
+    }
   }
-)
+  }))
