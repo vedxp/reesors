@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
-export default defineConfig({
+import { withPwa } from '@vite-pwa/vitepress'
+
+export default withPwa(defineConfig({
   title: "Reesors",
   titleTemplate: false,
   description: "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
@@ -19,7 +21,7 @@ export default defineConfig({
     ['meta', { name: "msapplication-TileColor", content: "#da532c"}],
     ['meta', { name: "msapplication-config", content: "/browserconfig.xml"}],
     ['meta', { name: "theme-color", content: "#ffffff"}],
-    ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-ZLRHJBGCPE', async: 'async' }],
+    ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-ZLRHJBGCPE', defer: 'defer' }],
     ['script', {}, `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -37,7 +39,38 @@ export default defineConfig({
   nav: [
     { text: 'GitHub', link: 'https://github.com/VedxP/reesors' },
     { text: 'VedxP', link: 'https://vedxp.vercel.app/' }
-  ],
-   }
+  ]
+   },
+  pwa: {
+    base: '/',
+    scope: '/',
+    includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'safari-pinned-tab.svg'],
+    manifest: {
+      name: 'Reesors',
+      short_name: 'Reesors',
+      description: 'A cozy 😌 collection of free resources for developers and designers curated with ♥️',
+      theme_color: '#ffffff',
+      icons: [
+        {
+          src: 'android-chrome-192x192.png',
+          sizes: '192x192',
+          type: 'image/png',
+        },
+        {
+          src: 'logo-512x512.png',
+          sizes: '512x512',
+          type: 'image/png',
+        },
+        {
+          src: 'logo-512x512.png',
+          sizes: '512x512',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
+      ],
+    },
+    workbox: {
+      globPatterns: ['**/*.{css,js,html,svg,png,ico,txt,woff2}'],
+    },
   }
-)
+  }))
