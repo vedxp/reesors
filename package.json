@@ -1,12 +1,8 @@
 {
-  "name": "Reesors",
-  "version": "2.0.0",
-  "description": "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
-  "main": "index.js",
-  "repository": "https://github.com/VedxP/reesors",
-  "author": "VedxP",
-  "license": "GPL v3.0",
   "private": true,
+  "dependencies": {
+    "@luckrya/markdown-it-link-to-card": "^0.3.2"
+  }
   "devDependencies": {
     "vitepress": "1.0.0-alpha.29",
     "vue": "3.2.45"
@@ -21,8 +17,5 @@
         "@algolia/client-search"
       ]
     }
-  },
-  "dependencies": {
-    "@luckrya/markdown-it-link-to-card": "^0.3.1"
   }
 }
