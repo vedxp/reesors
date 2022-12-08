@@ -35,7 +35,7 @@ export default defineConfig({
       copyright: "Copyright © 2022-present VedxP" },
 
   nav: [
-    { text: 'GitHub', link: 'https://github.com/VedxP/reesors' },
+    { text: 'GitHub', link: 'https://github.com/vedxp/reesors' },
     { text: 'VedxP', link: 'https://vedxp.vercel.app/' }
   ],
    }
