@@ -32,11 +32,11 @@ export default defineConfig({
   themeConfig: { 
   footer: {
       message: "Released under the GPL-3.0 License.",
-      copyright: "Copyright © 2022-present VedxP" },
+      copyright: "Copyright 2022-present Vedxp" },
 
   nav: [
     { text: 'GitHub', link: 'https://github.com/vedxp/reesors' },
-    { text: 'VedxP', link: 'https://vedxp.vercel.app/' }
+    { text: 'Maintainer', link: 'https://vedxp.vercel.app/' }
   ],
    }
   }
