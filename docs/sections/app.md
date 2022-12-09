@@ -1,6 +1,6 @@
 # App Dev <Badge type="tip" text="Opinionated" />
 
-- [Dashbud]($:https://dashbud.dev/)
+- \\$ => [Dashbud]($:https://dashbud.dev/)
 - [Flutter Cookbook]($:https://docs.flutter.dev/cookbook)
 - [Ionic Framework]($:https://ionicframework.com/)
 - [Kodika.io]($:https://kodika.io/)
