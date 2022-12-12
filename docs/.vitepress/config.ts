@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { linkToCardPlugin } from '@luckrya/markdown-it-link-to-card'
+import type { LinkToCardPluginOptions } from '@luckrya/markdown-it-link-to-card'
+
 export default defineConfig({
   title: "Reesors",
   titleTemplate: false,
@@ -38,6 +41,12 @@ export default defineConfig({
     { text: 'Source Code', link: 'https://github.com/vedxp/reesors' },
     { text: 'Maintainer', link: 'https://vedxp.vercel.app/' }
   ],
-   }
+   },
+   markdown: {
+    config: (md) => {
+      md.use<LinkToCardPluginOptions>(linkToCardPlugin, {
+        size: "small",
+      })
+    }
   }
-)
+  })

@@ -1,5 +1,8 @@
 {
   "private": true,
+  "dependencies": {
+    "@luckrya/markdown-it-link-to-card": "^0.3.3"
+  },
   "devDependencies": {
     "vitepress": "1.0.0-alpha.31",
     "vue": "3.2.45"
