@@ -46,7 +46,6 @@ export default defineConfig({
     config: (md) => {
       md.use<LinkToCardPluginOptions>(linkToCardPlugin, {
         size: "small",
-        tag: "\\$"
       })
     }
   }
