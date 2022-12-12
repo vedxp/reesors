@@ -5,10 +5,17 @@
 [Wicked CSS](@:https://kristofferandreasen.github.io/wickedCSS/)
 
 [Hover.css](@:https://ianlunn.github.io/)
-- [Ceaser](@:https://matthewlein.com/tools/ceaser)
-- [Animista](@:https://animista.net/)
-- [Anime](@:https://animejs.com/)
-1. [Zdog](@:https://zzz.dog/)
-2. [Lottiefiles](@:https://lottiefiles.com/)
-3. [Animate On Scroll](@:https://michalsnik.github.io/aos/)
-4. [React Spring](@:https://react-spring.dev/)
+
+[Ceaser](@:https://matthewlein.com/tools/ceaser)
+
+[Animista](@:https://animista.net/)
+
+[Anime](@:https://animejs.com/)
+
+[Zdog](@:https://zzz.dog/)
+
+[Lottiefiles](@:https://lottiefiles.com/)
+
+[Animate On Scroll](@:https://michalsnik.github.io/aos/)
+
+[React Spring](@:https://react-spring.dev/)
